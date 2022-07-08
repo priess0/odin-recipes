@@ -1,0 +1,3 @@
+This is my first semi-independent project on TheOdinProject
+
+It's probably only going to be a simple HTML practice...
